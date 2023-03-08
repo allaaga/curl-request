@@ -4,15 +4,15 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Allaga\\CurlRequest\\": "src/"
+            "CurlRequest\\": "src/"
         }
     },
     "authors": [
         {
             "name": "allaga",
-            "email": "info@allaga.ru"
+            "email": "info@allaga.ru",
+            "homepage": "https://allaga.ru/",
+            "role": "Developer"
         }
-    ],
-    "require": {},
-    "minimum-stability": "dev"
+    ]
 }
