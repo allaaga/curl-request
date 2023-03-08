@@ -43,20 +43,6 @@ class CURLRequest
      *
      * @param string $requestUrl
      * @param float  $httpVersion
-     * @param array  $requestHeaders
-     *
-     * @return string
-     */
-    public function post()
-    {
-        // here code...
-    }
-
-    /**
-     * Undocumented function
-     *
-     * @param string $requestUrl
-     * @param float  $httpVersion
      *
      * @return array
      */
@@ -73,19 +59,5 @@ class CURLRequest
             'headers' => $headers,
             'body'    => $body
         ];
-    }
-
-    /**
-     * Undocumented function
-     *
-     * @param string $requestUrl
-     * @param float  $httpVersion
-     * @param array  $requestHeaders
-     *
-     * @return string
-     */
-    public function toArray()
-    {
-        // here code...
     }
 }
