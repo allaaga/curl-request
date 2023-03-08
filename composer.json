@@ -1,0 +1,17 @@
+{
+    "name": "allaga/curl-request",
+    "description": "The CURLRequest class is a lightweight HTTP client based on CURL that allows to talk to other web sites and servers",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Allaga\\CurlRequest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "allaga",
+            "email": "info@allaga.ru"
+        }
+    ],
+    "require": {}
+}
