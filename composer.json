@@ -13,5 +13,6 @@
             "email": "info@allaga.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
