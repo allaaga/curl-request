@@ -1,6 +1,6 @@
 <?php
 
-namespace DoskaYkt\HTTP;
+namespace HTTP;
 
 class CURLRequest
 {
